@@ -1,0 +1,61 @@
+2019-06-13 19:35:11,396 WARN 9252 [-/127.0.0.1/-/12ms POST /api/user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-06-13 19:35:11,398 WARN 9252 [-/127.0.0.1/-/14ms POST /api/user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\GitHub\TODO\node\demo03\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\GitHub\TODO\node\demo03\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (D:\GitHub\TODO\node\demo03\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\koa-compose\index.js:42:32)
+    at D:\GitHub\TODO\node\demo03\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\koa-compose\index.js:42:32)
+    at session (D:\GitHub\TODO\node\demo03\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (D:\GitHub\TODO\node\demo03\node_modules\koa-override\index.js:38:12)
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 9252
+hostname: USER-20170815QH
+
+2019-06-13 19:37:49,547 ERROR 7212 [-/127.0.0.1/-/14ms POST /api/user] nodejs.TypeError: Cannot destructure property `name` of 'undefined' or 'null'.
+    at UserController.create (D:\GitHub\TODO\node\demo03\app\controller\user.js:11:35)
+    at Object.callFn (D:\GitHub\TODO\node\demo03\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\GitHub\TODO\node\demo03\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+
+pid: 7212
+hostname: USER-20170815QH
+
+2019-06-13 19:38:33,215 ERROR 18048 [-/127.0.0.1/-/16ms POST /api/user] nodejs.TypeError: Cannot destructure property `name` of 'undefined' or 'null'.
+    at UserController.create (D:\GitHub\TODO\node\demo03\app\controller\user.js:11:35)
+    at Object.callFn (D:\GitHub\TODO\node\demo03\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\GitHub\TODO\node\demo03\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+
+pid: 18048
+hostname: USER-20170815QH
+
+2019-06-13 19:39:29,614 ERROR 19620 [-/127.0.0.1/-/15ms POST /api/user] nodejs.TypeError: Cannot destructure property `name` of 'undefined' or 'null'.
+    at UserController.create (D:\GitHub\TODO\node\demo03\app\controller\user.js:11:35)
+    at Object.callFn (D:\GitHub\TODO\node\demo03\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\GitHub\TODO\node\demo03\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:45:18)
+    at D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:44:32)
+    at D:\GitHub\TODO\node\demo03\node_modules\@eggjs\router\node_modules\koa-compose\index.js:36:12
+
+pid: 19620
+hostname: USER-20170815QH
+

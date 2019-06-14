@@ -1,0 +1,263 @@
+{
+  "keys": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+  "mysql": {
+    "client": {
+      "host": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+      "port": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+      "user": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+      "password": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+      "database": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js"
+    },
+    "app": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+    "agent": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+    "default": {
+      "database": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-mysql\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+    "domainWhiteList": "D:\\GitHub\\TODO\\node\\demo03\\config\\config.default.js",
+    "protocolWhiteList": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "main": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "author": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\GitHub\\TODO\\node\\demo03\\node_modules\\egg\\config\\config.default.js"
+}

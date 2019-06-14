@@ -1,0 +1,111 @@
+2019-06-13 18:54:40,271 INFO 9136 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34519731ms at 2019-06-14 04:30:00.002
+2019-06-13 18:54:40,272 INFO 9136 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 18319729ms at 2019-06-14 00:00:00.001
+2019-06-13 18:54:40,272 INFO 9136 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 18320728ms at 2019-06-14 00:00:01.000
+2019-06-13 18:54:40,184 INFO 27540 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 18:54:40,184 INFO 27540 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 18:54:40,184 INFO 27540 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:08:08,790 INFO 11664 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:08:08,790 INFO 11664 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:08:08,790 INFO 11664 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:08:08,942 INFO 12568 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33711061ms at 2019-06-14 04:30:00.003
+2019-06-13 19:08:08,942 INFO 12568 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17511058ms at 2019-06-14 00:00:00.000
+2019-06-13 19:08:08,942 INFO 12568 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17512058ms at 2019-06-14 00:00:01.000
+2019-06-13 19:12:01,387 INFO 16520 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:12:01,387 INFO 16520 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:12:01,387 INFO 16520 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:14:36,695 INFO 15772 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:14:36,695 INFO 15772 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:14:36,695 INFO 15772 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:14:52,545 INFO 10624 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:14:52,545 INFO 10624 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:14:52,545 INFO 10624 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:18:44,241 INFO 9212 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:18:44,241 INFO 9212 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:18:44,241 INFO 9212 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:18:44,415 INFO 25956 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33075588ms at 2019-06-14 04:30:00.003
+2019-06-13 19:18:44,415 INFO 25956 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16875585ms at 2019-06-14 00:00:00.000
+2019-06-13 19:18:44,416 INFO 25956 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16876585ms at 2019-06-14 00:00:01.001
+2019-06-13 19:20:28,217 INFO 12400 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:20:28,217 INFO 12400 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:20:28,217 INFO 12400 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:23:12,650 INFO 10644 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:23:12,650 INFO 10644 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:23:12,650 INFO 10644 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:25:24,193 INFO 12060 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:25:24,193 INFO 12060 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:25:24,193 INFO 12060 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:25:44,737 INFO 9252 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:25:44,737 INFO 9252 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:25:44,737 INFO 9252 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:25:44,911 INFO 12536 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32655091ms at 2019-06-14 04:30:00.002
+2019-06-13 19:25:44,912 INFO 12536 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16455089ms at 2019-06-14 00:00:00.001
+2019-06-13 19:25:44,912 INFO 12536 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16456088ms at 2019-06-14 00:00:01.000
+2019-06-13 19:37:46,980 INFO 7212 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:37:46,980 INFO 7212 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:37:46,980 INFO 7212 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:37:47,144 INFO 16616 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31932858ms at 2019-06-14 04:30:00.002
+2019-06-13 19:37:47,145 INFO 16616 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 15732855ms at 2019-06-14 00:00:00.000
+2019-06-13 19:37:47,145 INFO 16616 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15733855ms at 2019-06-14 00:00:01.000
+2019-06-13 19:38:26,267 INFO 18048 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:38:26,267 INFO 18048 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:38:26,267 INFO 18048 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:39:16,426 INFO 19620 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:39:16,426 INFO 19620 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:39:16,426 INFO 19620 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:39:16,585 INFO 16504 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31843418ms at 2019-06-14 04:30:00.003
+2019-06-13 19:39:16,585 INFO 16504 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 15643415ms at 2019-06-14 00:00:00.000
+2019-06-13 19:39:16,585 INFO 16504 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15644415ms at 2019-06-14 00:00:01.000
+2019-06-13 19:41:13,599 INFO 18032 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:41:13,599 INFO 18032 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:41:13,599 INFO 18032 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:41:17,929 INFO 7332 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:41:17,929 INFO 7332 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:41:17,929 INFO 7332 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:41:31,512 INFO 21296 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:41:31,512 INFO 21296 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:41:31,512 INFO 21296 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:43:02,288 INFO 17220 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:43:02,288 INFO 17220 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:43:02,288 INFO 17220 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:43:55,281 INFO 17860 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:43:55,282 INFO 17860 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:43:55,282 INFO 17860 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:44:43,323 INFO 25008 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:44:43,323 INFO 25008 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:44:43,323 INFO 25008 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:45:56,573 INFO 23560 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:45:56,573 INFO 23560 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:45:56,573 INFO 23560 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:47:10,249 INFO 10860 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:47:10,249 INFO 10860 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:47:10,249 INFO 10860 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:48:38,460 INFO 26568 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:48:38,460 INFO 26568 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:48:38,460 INFO 26568 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:51:00,861 INFO 3256 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:51:00,861 INFO 3256 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:51:00,861 INFO 3256 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:51:01,011 INFO 21892 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31138993ms at 2019-06-14 04:30:00.004
+2019-06-13 19:51:01,011 INFO 21892 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 14938989ms at 2019-06-14 00:00:00.000
+2019-06-13 19:51:01,011 INFO 21892 [Timer] D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 14939989ms at 2019-06-14 00:00:01.000
+2019-06-13 19:54:24,307 INFO 18284 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:54:24,307 INFO 18284 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:54:24,307 INFO 18284 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:54:38,325 INFO 23416 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:54:38,325 INFO 23416 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:54:38,325 INFO 23416 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:56:39,112 INFO 18376 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:56:39,112 INFO 18376 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:56:39,112 INFO 18376 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:57:22,332 INFO 4008 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:57:22,332 INFO 4008 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:57:22,332 INFO 4008 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 19:59:17,532 INFO 20508 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 19:59:17,532 INFO 20508 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 19:59:17,532 INFO 20508 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 20:00:12,244 INFO 21492 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 20:00:12,244 INFO 21492 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 20:00:12,244 INFO 21492 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-13 20:01:11,502 INFO 19264 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-13 20:01:11,502 INFO 19264 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-13 20:01:11,502 INFO 19264 [egg-schedule]: register schedule D:\GitHub\TODO\node\demo03\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
